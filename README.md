@@ -2,6 +2,9 @@
 Scanline renderer implemented using C++.
 Last Updated: 3/29/2020
 
+## Dependencies
+ * Eigen (http://eigen.tuxfamily.org/).
+
 ## Description
 This is a ray tracer, implemented using C++.
 
