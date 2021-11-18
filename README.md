@@ -17,7 +17,12 @@ This code includes:
 * Specular shading
 
 ## Running the Code
+You can run the program with the sample scene geometry provided in the code simply by running the executable render.sh. This will produce images demonstrating each of the features mentioned above.
 
+```
+chmod +x render.sh
+./render.sh
+```
 
 ## Potential Improvements/Additions
 * Shadows
